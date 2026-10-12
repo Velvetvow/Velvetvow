@@ -1,4 +1,7 @@
-## Hi there 👋
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/262a8599-f99f-4855-854f-2e5ff3e91e27" width="390">
+</p>
 
 <!--
 **Velvetvow/Velvetvow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
